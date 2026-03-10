@@ -2,7 +2,7 @@
 project:
   title:        "tt_pts17_multiplier"      # Project title
   author:       "paulsadofsky"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "paulsadofsky"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "digital_multiplier"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100000       # Clock frequency in Hz (or 0 if not applicable)
