@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This design take two 4-bit numbers and multiplies them to be an 8-bit product.
+This design takes two 4-bit numbers and multiplies them to be an 8-bit product.
 
 ## How to test
 
